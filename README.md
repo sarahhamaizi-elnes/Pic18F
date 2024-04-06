@@ -1,6 +1,6 @@
-# Pic18f 
+#smarthome #PIC18
 
-Projet de Contrôle Domotique avec PIC18F. 
+c'est un projet d'un systeme  Domotique en utilisant le microcontorleur  PIC18F. 
 Ce projet concerne le développement d'un système de contrôle domotique utilisant le microcontrôleur PIC18F. Le système permet la communication entre le PIC18F et différents capteurs ainsi que des actionneurs pour automatiser et contrôler divers aspects d'un environnement domestique.
 
 Fonctionnalités Principales
